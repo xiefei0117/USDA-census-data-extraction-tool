@@ -1,0 +1,29 @@
+VarName,Table,Item,Unit,Additional_Info
+VarRow1,Table 1,Harvested cropland,acres,-
+VarRow2,Table 1,Market value of agricultural products sold (see text),"$1,000",-
+VarRow3,Table 1,"Crops, including nursery and greenhouse crops",".$1,000",-
+VarRow6,Table 2,Cotton and cottonseed,"$1,000, 2017",-
+VarRow7,Table 2,"Vegetables, melons, potatoes, and sweet","$1,000, 2017",-
+VarRow8,Table 2,"Fruits, tree nuts, and berries","$1,000, 2017",-
+VarRow9,Table 2,"Nursery, greenhouse, floriculture, and","$1,000, 2017",-
+VarRow10,Table 2,Cultivated Christmas trees and short,"$1,000, 2017",-
+VarRow11,Table 2,Other crops and hay (see text),"$1,000, 2017",-
+VarRow12,Table 2,"Livestock, poultry, and their products","$1,000, 2017",-
+VarRow13,Table 2,Poultry and eggs,"$1,000, 2017",-
+VarRow14,Table 2,Cattle and calves,"$1,000, 2017",-
+VarRow15,Table 2,Milk from cows,"$1,000, 2017",-
+VarRow16,Table 2,Hogs and pigs,"$1,000, 2017",-
+VarRow17,Table 2,"Sheep, goats, wool, mohair, and","$1,000, 2017",-
+VarRow18,Table 2,"Horses, ponies, mules, burros, and","$1,000, 2017",-
+VarRow19,Table 2,Aquaculture,"$1,000, 2017",-
+VarRow20,Table 2,Other animals and other animal,"$1,000, 2017",-
+VarRow21,Table 11,"Cattle weighing 500 pounds or more,","number, 2017",-
+VarRow22,Table 11,"Calves weighing less than 500 pounds,","number, 2017",-
+VarRow23,Table 11,Milk sold from cows,"$1,000, 2017",-
+VarRow24,Table 12,Hogs and pigs sold,"number, 2017",-
+VarRow25,Table 13,Sheep and lambs sold,"number, 2017",-
+VarRow26,Table 13,Wool production,"pounds, 2017",-
+VarRow27,Table 19,Layers sold (see text),"number, 2017",-
+VarRow28,Table 19,Pullets for laying flock replacement sold,"number, 2017",-
+VarRow29,Table 19,Broilers and other meat-type chickens sold,"number, 2017",-
+VarRow30,Table 19,Turkeys sold (see text),"number, 2017",-
